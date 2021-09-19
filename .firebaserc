@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "board-265fb": {
+      "hosting": {
+        "board": [
+          "board-265fb"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "board-265fb"
+  }
+}
